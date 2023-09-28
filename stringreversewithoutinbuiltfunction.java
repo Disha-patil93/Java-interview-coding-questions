@@ -1,4 +1,4 @@
-import java.lang.*;
+// import java.lang.*;""
 
 class stringreversewithoutinbuiltfunction {
     public static void main(String[] args) {
